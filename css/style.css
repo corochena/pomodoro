@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+
+#clock {
+  width: 530px;
+  height: 530px;
+  padding: 5px;
+  background-color: slategray;
+  margin: 0px auto;
+  text-align: center;
+  border-radius: 15%;
+}
+
+canvas {
+  width: 430px;
+  height: 430px;
+  border: 5px solid white;
+  margin: 15px auto;
+  display: block;
+  border-radius: 50%
+}
+
+button {
+  background-color: navy;
+  color: silver;
+  width: 50px;
+  height: 40px;
+  font-size: 150%;
+}
+
+input {
+  font-size: 150%;
+  padding: 4px 0px;
+  text-align: center;
+}
+
+h1 {
+  font-family: Italianno;
+  font-size: 300%;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
